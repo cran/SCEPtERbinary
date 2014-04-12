@@ -1,0 +1,9 @@
+b6e78409e86d2f5a35f4682e90508d97 *DESCRIPTION
+3a9d463307b859fbb14dae1eb314d454 *NAMESPACE
+fe1221f30510d34851b73fd14d7a03d7 *R/SCEPtERbinary.R
+9edef71b88adb0fc5f9d7ea9224ad57f *man/SCEPtERbinary-package.Rd
+0a8b4fd1929d11c2f2e43b38577f7780 *man/block.Rd
+590ca2ddede849223b74c5269664d6fc *man/errorObsBin.Rd
+22cae597587c8ca655eeff24a72f903c *man/estimateBin.Rd
+256761b2e6c1113ee3ae1e39c980b1ce *man/sampleBinStar.Rd
+bc659fb7da18a93cb8d8f9eb68d2087c *src/lik4.c

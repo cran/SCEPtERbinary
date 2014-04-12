@@ -1,0 +1,4 @@
+useDynLib(SCEPtERbinary)
+import(MASS, parallel, SCEPtER)
+export(block, errorObsBin, estimateBin, sampleBinStar)
+
